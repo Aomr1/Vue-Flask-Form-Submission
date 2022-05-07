@@ -4,9 +4,8 @@
 
 **实现各种表单填写存储、邮箱验证码、轮播图描述列表展示**
 
-![image-20220507122300302](C:\Users\46398\AppData\Roaming\Typora\typora-user-images\image-20220507122300302.png)
-
-![image-20220507122357519](C:\Users\46398\AppData\Roaming\Typora\typora-user-images\image-20220507122357519.png)
+![表单提交页面](https://github.com/Aomr1/Vue-Flask-Form-Submission/blob/main/pic/1.png)
+![表单展示页面](https://github.com/Aomr1/Vue-Flask-Form-Submission/blob/main/pic/2.png)
 
 ### 启动项目
 
